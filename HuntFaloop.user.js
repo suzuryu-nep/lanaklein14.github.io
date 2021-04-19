@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name HuntFaloop
-// @namespace https://github.com/lanaklein14/lanaklein14.github.io
-// @description Script for ffxiv-the-hunt.net -> faloop integration
+// @name HuntFaloop nepnep fix
+// @namespace https://github.com/suzuryu-nep/lanaklein14.github.io
+// @description Script for ffxiv-the-hunt.net -> faloop integration (fix version)
 // @include https://ffxiv-the-hunt.net/*
 // @include https://faloop.app/*
 // @version 1.0.4
+// @author suzuryu_nep
 // ==/UserScript==
 const mobs = [{
     id: 2962,
