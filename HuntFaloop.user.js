@@ -4,7 +4,7 @@
 // @description Script for ffxiv-the-hunt.net -> faloop integration (fix version)
 // @include https://ffxiv-the-hunt.net/*
 // @include https://faloop.app/*
-// @version 1.0.5
+// @version 1.0.5.1
 // @author suzuryu_nep
 // ==/UserScript==
 const mobs = [{
@@ -509,8 +509,8 @@ function main_huntnet() {
                         }
                         window.open(
                             instanceid==0 ?
-                            `https://faloop.app/${worldmap[world.toLowerCase()].dc}?worldid=${worldmap[world.toLowerCase()].id}&mobid=${currentmobid}&time=${mean}` :
-                            `https://faloop.app/${worldmap[world.toLowerCase()].dc}?worldid=${worldmap[world.toLowerCase()].id}&mobid=${currentmobid}&instanceid=${instanceid}&time=${mean}`, "_blank");
+                            `https://faloop.app/?worldid=${worldmap[world.toLowerCase()].id}&mobid=${currentmobid}&time=${mean}` :
+                            `https://faloop.app/?worldid=${worldmap[world.toLowerCase()].id}&mobid=${currentmobid}&instanceid=${instanceid}&time=${mean}`, "_blank");
                     }
                 }
             }
