@@ -4,7 +4,7 @@
 // @description Script for ffxiv-the-hunt.net -> faloop integration (fix version)
 // @include https://ffxiv-the-hunt.net/*
 // @include https://faloop.app/*
-// @version 1.0.5.1
+// @version 1.0.6
 // @author suzuryu_nep
 // ==/UserScript==
 const mobs = [{
