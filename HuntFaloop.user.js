@@ -5,9 +5,9 @@
 // @include https://ffxiv-the-hunt.net/*
 // @include https://faloop.app/*
 // @author suzuryu_nep
-// @version 1.1.0
-// @downloadURL https://github.com/lanaklein14/lanaklein14.github.io/raw/master/HuntFaloop.user.js
-// @updateURL https://github.com/lanaklein14/lanaklein14.github.io/raw/master/HuntFaloop.user.js
+// @version 1.1.1
+// @downloadURL https://greasyfork.org/scripts/425241-huntfaloop-nepnep-fix/code/HuntFaloop%20nepnep%20fix.user.js
+// @updateURL https://greasyfork.org/scripts/425241-huntfaloop-nepnep-fix/code/HuntFaloop%20nepnep%20fix.user.js
 // ==/UserScript==
 const mobs = [{
     id: 2962,
