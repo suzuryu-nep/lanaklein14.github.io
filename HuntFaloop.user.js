@@ -5,7 +5,7 @@
 // @include https://ffxiv-the-hunt.net/*
 // @include https://faloop.app/*
 // @author suzuryu_nep
-// @version 1.1.1
+// @version 1.1.2
 // @downloadURL https://greasyfork.org/scripts/425241-huntfaloop-nepnep-fix/code/HuntFaloop%20nepnep%20fix.user.js
 // @updateURL https://greasyfork.org/scripts/425241-huntfaloop-nepnep-fix/code/HuntFaloop%20nepnep%20fix.user.js
 // ==/UserScript==
